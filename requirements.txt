@@ -34,7 +34,6 @@ cloudinary==1.25.0
 cloudpickle 
 colorama==0.4.3
 comtypes==1.1.7
-conda==4.8.3
 conda-build==3.18.11
 conda-package-handling==1.7.0
 conda-verify==3.4.2
